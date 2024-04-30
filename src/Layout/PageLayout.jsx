@@ -3,7 +3,7 @@ import Sidebar from '../components/Sidebar/Sidebar';
 
 const PageLayout = ({ children }) => {
   return (
-    <div className='flex'>
+    <div className='flex font-gsans'>
       <div className='w-[70px] md:w-60'>
         <Sidebar />
       </div>
