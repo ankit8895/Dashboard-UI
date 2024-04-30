@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        gsans: ['Open Sans', 'sans-serif'],
+        gsans: ['Rubik', 'sans-serif'],
       },
     },
   },
